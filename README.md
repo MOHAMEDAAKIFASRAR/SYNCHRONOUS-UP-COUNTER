@@ -43,11 +43,11 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **PROGRAM**
 
-Developed by:Abinaya A
-
-RegisterNumber:212223040003
 
 ```
+Developed by: MOHAMED AAKIF ASRAR S
+RegisterNumber:212223240088
+
 module ex11(out,clk,rstn);
 input clk,rstn;
 output reg [3:0]out;
